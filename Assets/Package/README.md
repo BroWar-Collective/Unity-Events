@@ -1,6 +1,6 @@
-# <package_name>
+# Events
 
-<description>
+Burstable events system with ECS support without sync points.
 
 ## Documents
 
