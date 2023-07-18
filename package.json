@@ -1,13 +1,13 @@
 {
-  "name": "com.browar.TODO",
-  "displayName": "TODO",
-  "version": "0.0.0",
-  "unity": "2018.1",
-  "description": "TODO.",
+  "name": "com.browar.events",
+  "displayName": "Events",
+  "version": "0.15.6",
+  "unity": "2022.3",
+  "description": "Burstable events system with ECS support without sync points.",
   "keywords": [
-    "TODO",
+    "events",
   ],
-  "category": "TODO",
+  "category": "events",
   "author": {
     "name": "BroWar Collective",
     "email": "browar.collective@gmail.com",
