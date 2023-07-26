@@ -1,7 +1,7 @@
 {
   "name": "com.browar.events",
   "displayName": "Events",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "unity": "2022.3",
   "description": "Burstable events system with ECS support without sync points.",
   "keywords": [
