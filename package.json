@@ -1,13 +1,16 @@
 {
   "name": "com.browar.events",
   "displayName": "Events",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "unity": "2022.3",
   "description": "Burstable events system with ECS support without sync points.",
   "keywords": [
     "events"
   ],
   "category": "events",
+  "dependencies": {
+    "com.unity.entities": "1.0.11"
+  },
   "author": {
     "name": "BroWar Collective",
     "email": "browar.collective@gmail.com",
